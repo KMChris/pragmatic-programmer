@@ -1,0 +1,14 @@
+{
+  "name": "pragmatic-programmer",
+  "owner": {
+    "name": "Krzysztof Mizgała"
+  },
+  "description": "Universal coding-agent workflows for repository work.",
+  "plugins": [
+    {
+      "name": "pragmatic-programmer",
+      "source": "./plugins/pragmatic-programmer",
+      "description": "Repository-level software engineering workflow for coding agents."
+    }
+  ]
+}

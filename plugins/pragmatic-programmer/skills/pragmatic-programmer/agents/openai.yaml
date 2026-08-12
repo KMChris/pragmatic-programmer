@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pragmatic Programmer"
+  short_description: "Edit, test, and commit repository changes safely"
+  default_prompt: "Use $pragmatic-programmer to implement and verify this repository change."

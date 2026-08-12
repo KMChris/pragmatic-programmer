@@ -1,0 +1,18 @@
+{
+  "name": "pragmatic-programmer",
+  "version": "1.0.0",
+  "description": "Repository-level software engineering workflow for coding agents.",
+  "author": {
+    "name": "Krzysztof Mizgała"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Pragmatic Programmer",
+    "shortDescription": "Implement and verify repository changes safely.",
+    "longDescription": "A pragmatic repository workflow for analysis, implementation, debugging, testing, documentation, review, and checkpoint commits.",
+    "developerName": "Krzysztof Mizgała",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $pragmatic-programmer to implement and verify this repository change."
+  }
+}

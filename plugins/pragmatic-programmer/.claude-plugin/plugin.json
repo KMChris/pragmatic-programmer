@@ -1,0 +1,9 @@
+{
+  "name": "pragmatic-programmer",
+  "description": "Repository-level software engineering workflow for coding agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Krzysztof Mizgała"
+  },
+  "skills": "./skills/"
+}
