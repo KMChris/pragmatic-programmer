@@ -1,9 +1,21 @@
 {
   "name": "pragmatic-programmer",
+  "displayName": "Pragmatic Programmer",
   "description": "Repository-level software engineering workflow for coding agents.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Krzysztof Mizgała"
   },
+  "homepage": "https://github.com/KMChris/pragmatic-programmer",
+  "repository": "https://github.com/KMChris/pragmatic-programmer",
+  "license": "MIT",
+  "keywords": [
+    "workflow",
+    "testing",
+    "refactoring",
+    "code-review",
+    "git"
+  ],
+  "icon": "./.claude-plugin/icon.png",
   "skills": "./skills/"
 }

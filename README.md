@@ -78,8 +78,11 @@ LICENSE
 .agents/plugins/marketplace.json
 plugins/pragmatic-programmer/
   .claude-plugin/plugin.json
+  .claude-plugin/icon.png
   .codex-plugin/plugin.json
   plugin.json
+  README.md
+  LICENSE
   skills/pragmatic-programmer/
     SKILL.md
     agents/openai.yaml
